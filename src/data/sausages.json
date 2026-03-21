@@ -7174,5 +7174,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:34",
     "id": 598
+  },
+  {
+    "type": "Long Island Ice Tea Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Long Island Ice Tea Sausage",
+    "episodeID": "XGRfwhHAIzQ",
+    "episodeType": "Standard",
+    "episodeLength": "05:06",
+    "id": 599
   }
 ]
