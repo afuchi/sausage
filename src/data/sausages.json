@@ -7186,5 +7186,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:06",
     "id": 599
+  },
+  {
+    "type": "The Whole Box of Dunkin Donuts Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "The Whole Box of Dunkin Donuts Sausage",
+    "episodeID": "ry8OFi4fktI",
+    "episodeType": "Standard",
+    "episodeLength": "03:45",
+    "id": 600
   }
 ]
