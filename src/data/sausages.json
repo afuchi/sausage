@@ -7198,5 +7198,17 @@
     "episodeType": "Standard",
     "episodeLength": "03:45",
     "id": 600
+  },
+  {
+    "type": "Warheads Sour Pickle Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Warheads Sour Pickle Sausage",
+    "episodeID": "9sCl128YYng",
+    "episodeType": "Standard",
+    "episodeLength": "05:11",
+    "id": 601
   }
 ]
