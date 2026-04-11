@@ -7210,5 +7210,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:11",
     "id": 601
+  },
+  {
+    "type": "Canned Bacon Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Canned Bacon Sausage",
+    "episodeID": "OJxk0EsetX4",
+    "episodeType": "Standard",
+    "episodeLength": "05:01",
+    "id": 602
   }
 ]
