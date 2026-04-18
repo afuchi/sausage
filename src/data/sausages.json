@@ -7222,5 +7222,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:01",
     "id": 602
+  },
+  {
+    "type": "Glow In The Dark Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Glow In The Dark Sausage",
+    "episodeID": "MIejjDlogPw",
+    "episodeType": "Standard",
+    "episodeLength": "06:13",
+    "id": 603
   }
 ]
