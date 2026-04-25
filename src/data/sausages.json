@@ -7234,5 +7234,17 @@
     "episodeType": "Standard",
     "episodeLength": "06:13",
     "id": 603
+  },
+  {
+    "type": "Apple Cores Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Apple Cores Sausage",
+    "episodeID": "i1CFdEAv29g",
+    "episodeType": "Standard",
+    "episodeLength": "05:40",
+    "id": 604
   }
 ]
