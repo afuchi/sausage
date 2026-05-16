@@ -7270,5 +7270,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:04",
     "id": 606
+  },
+  {
+    "type": "Homer Simpson Moon Waffle Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Homer Simpson Moon Waffle Sausage",
+    "episodeID": "bgkt4q5Byx4",
+    "episodeType": "Standard",
+    "episodeLength": "05:01",
+    "id": 607
   }
 ]
