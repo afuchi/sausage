@@ -7282,5 +7282,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:01",
     "id": 607
+  },
+  {
+    "type": "Oatmeal Creme Pie Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Oatmeal Creme Pie Sausage",
+    "episodeID": "vN9Y2AaHH90",
+    "episodeType": "Standard",
+    "episodeLength": "03:33",
+    "id": 608
   }
 ]
