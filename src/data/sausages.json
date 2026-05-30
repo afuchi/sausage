@@ -7294,5 +7294,17 @@
     "episodeType": "Standard",
     "episodeLength": "03:33",
     "id": 608
+  },
+  {
+    "type": "Lotus Root Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Lotus Root Sausage",
+    "episodeID": "rkEciQ_M51Q",
+    "episodeType": "Standard",
+    "episodeLength": "05:01",
+    "id": 609
   }
 ]
