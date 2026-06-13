@@ -7318,5 +7318,17 @@
     "episodeType": "Standard",
     "episodeLength": "04:11",
     "id": 610
+  },
+  {
+    "type": "Lavender Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Lavender Sausage",
+    "episodeID": "9xjG20ws0sY",
+    "episodeType": "Standard",
+    "episodeLength": "04:47",
+    "id": 611
   }
 ]
