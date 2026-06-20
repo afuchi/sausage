@@ -7330,5 +7330,17 @@
     "episodeType": "Standard",
     "episodeLength": "04:47",
     "id": 611
+  },
+  {
+    "type": "Mushroom Shredded Wheat Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Mushroom Shredded Wheat Sausage",
+    "episodeID": "gf1P48LEsnM",
+    "episodeType": "Standard",
+    "episodeLength": "05:15",
+    "id": 612
   }
 ]
