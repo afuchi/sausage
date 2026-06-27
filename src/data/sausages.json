@@ -7342,5 +7342,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:15",
     "id": 612
+  },
+  {
+    "type": "Head Cheese Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Head Cheese Sausage",
+    "episodeID": "dVyMgZ11kQc",
+    "episodeType": "Standard",
+    "episodeLength": "05:06",
+    "id": 613
   }
 ]
