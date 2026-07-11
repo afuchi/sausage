@@ -7366,5 +7366,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:20",
     "id": 614
+  },
+  {
+    "type": "Pickled Asparagus Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Pickled Asparagus Sausage",
+    "episodeID": "1wgSUGkf5ik",
+    "episodeType": "Standard",
+    "episodeLength": "05:13",
+    "id": 615
   }
 ]
