@@ -7390,5 +7390,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:48",
     "id": 616
+  },
+  {
+    "type": "Saffron Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Saffron Sausage",
+    "episodeID": "LshPLNJHZM4",
+    "episodeType": "Standard",
+    "episodeLength": "05:52",
+    "id": 617
   }
 ]
