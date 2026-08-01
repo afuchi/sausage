@@ -7402,5 +7402,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:52",
     "id": 617
+  },
+  {
+    "type": "Korean BBQ Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Korean BBQ Sausage",
+    "episodeID": "4lGReOTKDwk",
+    "episodeType": "Standard",
+    "episodeLength": "04:05",
+    "id": 618
   }
 ]
