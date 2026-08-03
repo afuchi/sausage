@@ -7414,5 +7414,17 @@
     "episodeType": "Standard",
     "episodeLength": "04:05",
     "id": 618
+  },
+  {
+    "type": "Deep Fried Vienna Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Deep Fried Vienna Sausages",
+    "episodeID": "PixA98lwZmQ",
+    "episodeType": "Standard",
+    "episodeLength": "01:24",
+    "id": 619
   }
 ]
