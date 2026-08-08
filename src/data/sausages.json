@@ -7426,5 +7426,17 @@
     "episodeType": "Standard",
     "episodeLength": "01:24",
     "id": 619
+  },
+  {
+    "type": "Carrot Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Carrot Sausage",
+    "episodeID": "YlQxFd4HzbA",
+    "episodeType": "Standard",
+    "episodeLength": "05:27",
+    "id": 620
   }
 ]
