@@ -7438,5 +7438,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:27",
     "id": 620
+  },
+  {
+    "type": "Burt Beeswax Chapstick Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Burt Beeswax Chapstick Sausage",
+    "episodeID": "6tksTSBIMmg",
+    "episodeType": "Standard",
+    "episodeLength": "04:53",
+    "id": 621
   }
 ]
