@@ -7486,5 +7486,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:01",
     "id": 624
+  },
+  {
+    "type": "Sprinkle Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Sprinkle Sausage Regrind",
+    "episodeID": "G-5gPldopEM",
+    "episodeType": "Standard",
+    "episodeLength": "05:23",
+    "id": 625
   }
 ]
