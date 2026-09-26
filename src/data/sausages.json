@@ -7510,5 +7510,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:21",
     "id": 626
+  },
+  {
+    "type": "Jagermeister Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Jagermeister Sausage",
+    "episodeID": "zR981TKcuAE",
+    "episodeType": "Standard",
+    "episodeLength": "03:51",
+    "id": 627
   }
 ]
