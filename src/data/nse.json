@@ -3067,5 +3067,14 @@
     "episodeID": "fuhGAs-EV7Y",
     "episodeLength": "01:42",
     "id": 341
+  },
+  {
+    "type": "Channel Announcement",
+    "rating": "N/A",
+    "song": "Unknown",
+    "episode": "Channel Announcement",
+    "episodeID": "hVVLQtkyABk",
+    "episodeLength": "01:19",
+    "id": 342
   }
 ]
