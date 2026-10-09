@@ -7534,5 +7534,17 @@
     "episodeType": "Standard",
     "episodeLength": "04:45",
     "id": 628
+  },
+  {
+    "type": "Cosmic Brownie Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Cosmic Brownie Sausage Regrind",
+    "episodeID": "Z3wIdYHp2YQ",
+    "episodeType": "Standard",
+    "episodeLength": "05:26",
+    "id": 629
   }
 ]
