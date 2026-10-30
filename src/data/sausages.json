@@ -7570,5 +7570,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:05",
     "id": 631
+  },
+  {
+    "type": "Hearts of Palm Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Hearts of Palm Sausage",
+    "episodeID": "1MnWIoQHWMI",
+    "episodeType": "Standard",
+    "episodeLength": "05:45",
+    "id": 632
   }
 ]
