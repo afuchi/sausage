@@ -7594,5 +7594,17 @@
     "episodeType": "Standard",
     "episodeLength": "05:01",
     "id": 633
+  },
+  {
+    "type": "Turkish Delight Sausage",
+    "rating": "N/A",
+    "dibl": "N/A",
+    "dibu": 0,
+    "song": "Unknown",
+    "episode": "Turkish Delight Sausage",
+    "episodeID": "k23ERdizVeg",
+    "episodeType": "Standard",
+    "episodeLength": "05:34",
+    "id": 634
   }
 ]
